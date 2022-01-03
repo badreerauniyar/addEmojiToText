@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addEmojiToText/static/css/main.cec79ba8.css",
+    "main.js": "/addEmojiToText/static/js/main.de472f5c.js",
+    "index.html": "/addEmojiToText/index.html",
+    "main.cec79ba8.css.map": "/addEmojiToText/static/css/main.cec79ba8.css.map",
+    "main.de472f5c.js.map": "/addEmojiToText/static/js/main.de472f5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec79ba8.css",
+    "static/js/main.de472f5c.js"
+  ]
+}
